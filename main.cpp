@@ -2,7 +2,7 @@
 #define print std::cout<<
 #define input std::cin>>
 #define str std::string
-#define pointer int*
+#define pointer char*
 #define clr_text system("clear")
 
 /*
